@@ -14,15 +14,16 @@ git clone https://github.com/your-username/Plant-Disease-Detection.git
 cd Plant-Disease-Detection
 
 ## Install Dependencies:
-bash
+''' bash
 pip install -r requirements.txt
 
 ## Download Dataset:
 Ensure you have the dataset downloaded and properly organized in the dataset directory.
+
 Kaggle: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 ## Run the Streamlit App:
-bash
+'''bash
 streamlit run app.py
 
 
