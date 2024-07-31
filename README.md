@@ -8,13 +8,11 @@ Python: Primary programming language used in the project.
 Setup and Installation
 
 
-##Clone the Repository:
-bash
+## Clone the Repository:
 git clone https://github.com/your-username/Plant-Disease-Detection.git
 cd Plant-Disease-Detection
 
 ## Install Dependencies:
-''' bash
 pip install -r requirements.txt
 
 ## Download Dataset:
@@ -23,7 +21,6 @@ Ensure you have the dataset downloaded and properly organized in the dataset dir
 Kaggle: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 ## Run the Streamlit App:
-'''bash
 streamlit run app.py
 
 
